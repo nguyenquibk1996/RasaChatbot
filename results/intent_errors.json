@@ -1,0 +1,98 @@
+[
+  {
+    "text": "何が食べたいですか",
+    "intent": "invite_eatting",
+    "intent_prediction": {
+      "name": "ask_to_meet",
+      "confidence": 0.5613885521888733
+    }
+  },
+  {
+    "text": "場所はどうしますか？",
+    "intent": "where_to_meet",
+    "intent_prediction": {
+      "name": "ask_to_meet",
+      "confidence": 0.9471174478530884
+    }
+  },
+  {
+    "text": "いつがいい？希望ある？",
+    "intent": "ask_to_meet",
+    "intent_prediction": {
+      "name": "where_to_meet",
+      "confidence": 0.6190139055252075
+    }
+  },
+  {
+    "text": "今日遊ぼうよ！どこ行けば会える？",
+    "intent": "where_to_meet",
+    "intent_prediction": {
+      "name": "ask_to_meet",
+      "confidence": 0.9977143406867981
+    }
+  },
+  {
+    "text": "ちなみにどこで会いたいの？",
+    "intent": "where_to_meet",
+    "intent_prediction": {
+      "name": "ask_to_meet",
+      "confidence": 0.9904816150665283
+    }
+  },
+  {
+    "text": "１日も早く一緒にランチデイトしてください",
+    "intent": "invite_eatting",
+    "intent_prediction": {
+      "name": "ask_to_meet",
+      "confidence": 0.9404707551002502
+    }
+  },
+  {
+    "text": "じゃあー…集合場所も教えてくれたらLINEしても良いですよ教えてもらえますか？",
+    "intent": "where_to_meet",
+    "intent_prediction": {
+      "name": "greeting",
+      "confidence": 0.6054986715316772
+    }
+  },
+  {
+    "text": "どんな服装で来るとか教えてくれます？",
+    "intent": "describe_yourself",
+    "intent_prediction": {
+      "name": "ask_to_meet",
+      "confidence": 0.9095818996429443
+    }
+  },
+  {
+    "text": "初めて",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "where_to_meet",
+      "confidence": 0.7549067735671997
+    }
+  },
+  {
+    "text": "ランチいいですね♪きみは甘いものすきですか？",
+    "intent": "invite_eatting",
+    "intent_prediction": {
+      "name": "ask_to_meet",
+      "confidence": 0.8601431250572205
+    }
+  },
+  {
+    "text": "どこでもいいよ 決めてくれる？",
+    "intent": "where_to_meet",
+    "intent_prediction": {
+      "name": "ask_to_meet",
+      "confidence": 0.31295061111450195
+    }
+  },
+  {
+    "text": "これから会ってみる？",
+    "intent": "where_to_meet",
+    "intent_prediction": {
+      "name": "ask_to_meet",
+      "confidence": 0.9676867127418518
+    }
+  }
+]
